@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:jefersonbaixo/omnistack-week10-backend.git
+[submodule "web"]
+	path = web
+	url = git@github.com:jefersonbaixo/omnistack-week10-frontend.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:jefersonbaixo/omnistack-week10-mobile.git
